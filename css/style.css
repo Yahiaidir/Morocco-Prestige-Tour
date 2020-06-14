@@ -1,0 +1,84 @@
+
+/* tag-selectors */
+
+body{
+  font-family: 'Montserrat', serif;
+  font-size: 1rem;
+  }
+  h1{
+  font-family:   'Bree Serif', serif;
+  }
+
+  h2{
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+  padding-top: 5%;
+  text-align: center;
+  }
+
+  h4{
+    margin-bottom: 60%;
+    font-family: 'raleway';
+    font-size: 2.5rem;
+  }
+
+/* Class-selectors */
+
+   .title-container{
+     background-color: #000;
+
+   }
+
+   .menu-text{
+  color:#fff;
+
+   }
+
+   .logo-image{
+  height: 66px;
+
+   }
+
+  .top-container{
+    background-color:
+    text-align: center;
+
+  }
+  .container-fluid{
+    margin-top: 100px;
+  }
+
+  #carouselExampleCaptions{
+    z-index: -1;
+  }
+
+
+  .tours{
+    width: 30%;
+    padding: 5% 3%;
+    text-align: center;
+  }
+  .tours-images{
+    width: 200px;
+  }
+
+  /* footer-section */
+.footer-info{
+  text-align: center;
+  padding: 10%;
+  margin-top: 15%;
+  background-color: #000;
+  }
+
+  .footer-link{
+    color: #11999E;
+  padding: 5%;
+  }
+
+  .stay-connected{
+    margin-top: 15%;
+  }
+
+  .rights-reserved{
+    color: #fff;
+  }
